@@ -1,4 +1,4 @@
 - 👋 Hi, I’m 怜明音-Akane Satoi (Sa-to-i) 
 - 👀 I’m interested in creating discord bots by javascripts!
 - 🌱 I’m currently studying in Diploma of Business and Economics, RAIS '22
-- 📫 How to reach me: discord, あかね#8128
+- 📫 How to reach me: discord, Caramel#8128
