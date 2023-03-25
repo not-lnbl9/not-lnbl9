@@ -1,4 +1,5 @@
-- 👋 Hi, I’m 怜明音-Akane Satoi (Sa-to-i) 
+- 👋 Hi, I’m 有希明音-Akane Yuuki ユウキ アカネ 
 - 👀 I’m interested in creating discord bots by javascripts!
-- 🌱 I’m currently studying in Diploma of Business and Economics, RAIS '22
-- 📫 How to reach me: discord, Caramel#8128
+- 🌱 I studied in Diploma of Business and Economics, RAIS '22
+- 🌱 I’m currently studying in Faculty of Global Studies, Musashino University 武蔵野大学
+- 📫 How to reach me: discord, Saint Laurent#8128
