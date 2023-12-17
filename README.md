@@ -1,5 +1,5 @@
-- 👋 Hi, I’m 有希明音-Akane Yuuki ユウキ アカネ 
+- 👋 Hi, I’m kayn
 - 👀 I’m interested in creating discord bots by javascripts!
 - 🌱 I studied in Diploma of Business and Economics, RAIS '22
 - 🌱 I’m currently studying in Faculty of Global Studies, Musashino University 武蔵野大学
-- 📫 How to reach me: discord, Saint Laurent#8128
+- 📫 How to reach me: discord, saintlaurent
